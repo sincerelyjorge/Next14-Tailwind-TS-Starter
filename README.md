@@ -1,4 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Next14-Tailwind-TS-Starter
+
+A minimal Next.js 14 boilerplate that combines TypeScript, Tailwind CSS, and essential best practices. Perfect for jump-starting modern web projects with a clean folder structure and baseline configurations.
+
+## Features
+- ⚡️ Next.js 14 with App Router
+- 💎 TypeScript for type safety
+- 🎨 Tailwind CSS for styling
+- 📦 Shadcn/ui components pre-configured
+- 🔍 ESLint & Prettier setup
+- 📁 Well-organized folder structure
+- 🛠 Pre-built UI components
+
+## Quick Start
+1. Click "Use this template" button above
+2. Clone your new repository
+3. Install dependencies:
+```bash
+npm install
+```
+4. Start developing:
+```bash
+npm run dev
+```
+
+## Project Structure
+```
+├── app/                # Next.js app router pages
+├── components/         # Reusable UI components
+│   └── ui/            # Shadcn/ui components
+├── hooks/             # Custom React hooks
+├── lib/               # Utility functions
+└── public/            # Static assets
+```
+
+## Pre-configured Tools
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- Shadcn/ui
+- ESLint
+- Prettier
+
+## License
+MIT
 
 ## Getting Started
 
